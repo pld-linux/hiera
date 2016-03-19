@@ -8,7 +8,7 @@ Name:		hiera
 # Hiera 3.0 is included with open source Puppet versions 4.2 and up.
 # Hiera 1.0 is compatible with Puppet 3.x and is included in Puppet Enterprise 3.x.
 Version:	1.3.4
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Applications/Databases
 Source0:	http://rubygems.org/downloads/%{name}-%{version}.gem
